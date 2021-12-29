@@ -1,0 +1,58 @@
+.bd-placeholder-img 
+    
+  
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+
+
+/* product */
+.product-list {
+}
+
+.product {
+}
+
+.product:hover {
+    background-color: rgb(224, 49, 18);
+    cursor: pointer;
+}
+
+.product-img img {
+    width: 100%;
+}
+
+.product-name {
+    font-weight: bold;
+    color: rgb(128, 26, 0);
+}
+
+.product-price {
+}
+
+
